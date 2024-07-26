@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kmac313
+- 👋 Hi, I’m Khalil Walker
 - 👀 I’m interested in Entrepreneurship
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web Dev Projects
